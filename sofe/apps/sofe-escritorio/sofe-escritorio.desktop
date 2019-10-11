@@ -1,0 +1,9 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Sofe Escritorio
+Comment=Firma Electrónica Sofe Escritorio 1.2.0
+Exec=java -jar /opt/sofe-escritorio-1.2.0/SOFEscritorio.jar
+Terminal=false
+Type=Application
+Categories=Office;
+Icon=/opt/sofe-escritorio-1.2.0/iconosofe2.png

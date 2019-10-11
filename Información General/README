@@ -1,0 +1,10 @@
+###################################################################################
+#                                                                                 #
+# Para el correcto funcionamiento de los scripts realizados se debe:              #
+#	1-Acceder a la Terminal del Equipo como superusuario                      #
+#       2-Copiar unica y estrictamente la carpeta sofe contenida en el directorio #
+#         Firma sofe en la ruta /home/(Usuario del equipo)/Documentos             #
+#	3-Se debe Escribir en la Terminal el comando "bash install_sofe.sh"       #
+#		para desintalar el comando sera "bash desinstall_sofe.sh"         #
+#										  #
+###################################################################################
