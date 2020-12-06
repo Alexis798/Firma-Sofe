@@ -7,7 +7,7 @@
 #     SCRIPT: Desintalación de SOFE Escritorio Firma Electrónica                     #
 #     RUTA: /home/USUARIO/Documentos/sofe                                            #
 #     DESCRIPCIÓN: script para desintalar SOFE Escritorio y directorios asociados    #
-#     COPYRIGHT: (C) 2019 Andres MM Alexis <amweb98@gmail.com>                       #
+#     COPYRIGHT: (C) 2019 Andres MM Alexis <andres.alexi07@gmail.com>                #
 #     LICENCIA: Licencia BSD                                                         #
 #     Este programa es software libre. Puede redistribuirlo y/o modificarlo bajo los #
 #     términos de la Licencia BSD                                                    #
