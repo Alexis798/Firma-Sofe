@@ -2,9 +2,8 @@ Version: 1.0
 
 **DESCRIPCIÓN:** script para instalar, configurar y desintalar automaticamente el software Firma Sofe
 
-**COPYRIGHT:** (C) 2019 Andres MM Alexis <andres.alexi07@gmail.com>
-                      
-**LICENCIA:** Licencia BSD, Este programa es software libre. Puede redistribuirlo y/o modificarlo bajo los términos de la Licencia BSD                                                   
+**COPYRIGHT:** (C) 2019 Andres MM Alexis <@Alexis98>
+                                                                 
 
 Para el correcto funcionamiento de los scripts realizados se debe:              
 
